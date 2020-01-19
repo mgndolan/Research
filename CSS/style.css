@@ -1,7 +1,45 @@
-.container1 {
+.container3 {
     background-image: url('green1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 50%;
-    max-width: 100%;
+	max-width: 100%;
+}
+
+.navbar {
+	background-color: #2C2C2C;
+}
+
+.nav-link {
+	color: #999;
+    transition: ease-in-out color .15s;
+    padding-bottom: .5;
+    padding-top: .5;
+}
+
+.nav-link:hover {
+	color: #F5F4F4;
+}
+
+.container1 {
+	padding: 3rem;
+	margin-top: 3rem;
+	max-width: 52%;
+}
+
+.container2 {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px;
+}
+
+.description {
+	padding-right: 2em;
+	padding-left: 2em;
+}
+
+.m2 {
+	background-color: #FCFCFC;
 }
