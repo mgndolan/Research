@@ -1,3 +1,17 @@
+.container1 {
+	padding: 3rem;
+	margin-top: 3rem;
+	max-width: 52%;
+}
+
+.container2 {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px;
+}
+
 .container3 {
     background-image: url('cacao.png');
     background-repeat: no-repeat;
@@ -6,9 +20,33 @@
 	max-width: 100%;
 }
 
+/*.container4 {
+    background-color: rgb(146,91,92);
+}*/
+
 .homeText {
 	color: #F5F4F4;
 }
+
+
+.container4 {
+    background: linear-gradient(-45deg, #f7774f, #c43f16, #d58523, #f0cd46);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
 
 .navbar {
 	background-color: #2C2C2C;
@@ -25,27 +63,10 @@
 	color: #F5F4F4;
 }
 
-.container1 {
-	padding: 3rem;
-	margin-top: 3rem;
-	max-width: 52%;
-}
-
-.container2 {
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 1000px;
-}
 
 .description {
 	padding-right: 2em;
 	padding-left: 2em;
-}
-
-.m2 {
-	background-color: #FCFCFC;
 }
 
 .jumbo1 {
@@ -55,6 +76,10 @@
 
 .m1 {
 	margin: 15px;
+}
+
+.m2 {
+	background-color: #FCFCFC;
 }
 
 .m3 {
