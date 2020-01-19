@@ -1,9 +1,13 @@
 .container3 {
-    background-image: url('green1.jpg');
+    background-image: url('cacao.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 50%;
 	max-width: 100%;
+}
+
+.homeText {
+	color: #F5F4F4;
 }
 
 .navbar {
