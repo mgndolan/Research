@@ -43,3 +43,16 @@
 .m2 {
 	background-color: #FCFCFC;
 }
+
+.jumbo1 {
+    background-color: #f8f9fa;
+	overflow: hidden!important;
+}
+
+.m1 {
+	margin: 15px;
+}
+
+.m3 {
+	margin-top: 3em;
+}
