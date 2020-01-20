@@ -1,7 +1,7 @@
 .container1 {
-	padding: 3rem;
+	padding: 2rem;
 	margin-top: 3rem;
-	max-width: 52%;
+	max-width: 60%;
 }
 
 .container2 {
@@ -20,12 +20,12 @@
 	max-width: 100%;
 }
 
-/*.container4 {
-    background-color: rgb(146,91,92);
-}*/
-
 .homeText {
 	color: #F5F4F4;
+}
+
+.homeText2 {
+	font-size: 1.5em;
 }
 
 
