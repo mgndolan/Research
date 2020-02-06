@@ -20,6 +20,14 @@
 	max-width: 100%;
 }
 
+.text1 {
+	font-size: 18px;
+}
+
+body {
+	font-family: 'Proxima Nova Soft', 'Helvetica Neue', sans-serif;
+}
+
 .homeText {
 	color: #F5F4F4;
 }
@@ -62,7 +70,6 @@
 .nav-link:hover {
 	color: #F5F4F4;
 }
-
 
 .description {
 	padding-right: 2em;
